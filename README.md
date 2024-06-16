@@ -2,6 +2,6 @@
 
 - ✨ Business Analyst
 - 🤖 Python programmer
-- 💾 Security researcher
-- ⚡ I’m currently learning Bash
+- 💾 Full stack developer
+- ⚡ I’m currently learning Next.js
 
