@@ -2,6 +2,6 @@
 
 - ✨ Business Analyst
 - 🤖 Python programmer
-- 💾 Full stack developer
-- ⚡ I’m currently learning Next.js
+- 💲 Finance nerd
+- ⚡ I’m currently learning SQL
 
