@@ -3,5 +3,5 @@
 - ✨ Business Analyst
 - 🤖 Python programmer
 - 💲 Finance nerd
-- ⚡ I’m currently learning SQL
+- ⚡ I’m currently learning PostgreSQL
 
