@@ -3,5 +3,5 @@
 - ✨ Business Analyst
 - 🌍 Web Developer
 - 💲 Finance nerd
-- ⚡ I’m currently learning Tailwind CSS
+- 👨🏻‍🎓 I’m currently learning Tailwind CSS
 
