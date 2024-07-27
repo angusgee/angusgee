@@ -1,7 +1,7 @@
 ### Hi I'm Angus Girvan
 
 - ✨ Business Analyst
-- 🤖 Python programmer
+- 🌍 Web Developer
 - 💲 Finance nerd
-- ⚡ I’m currently learning PostgreSQL
+- ⚡ I’m currently learning Tailwind CSS
 
