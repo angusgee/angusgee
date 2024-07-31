@@ -1,4 +1,4 @@
-### Hi I'm Angus Girvan
+### Hi I'm AngusGee
 
 - ✨ Business Analyst
 - 🌍 Web Developer
