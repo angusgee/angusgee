@@ -3,5 +3,6 @@
 - ✨ Business Analyst
 - 🌍 Web Developer
 - 💲  Finance and trading nerd
-- 👨🏻‍🎓 I’m currently learning Tailwind CSS and TypeScript
+- 💾 Vue, Nuxt, Tailwind CSS
+- 👨🏻‍🎓 I’m currently learning Go
 
