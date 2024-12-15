@@ -2,8 +2,8 @@
 
 - ✨ AI Prompt Engineer
 - 🌍 Web Developer
-- 🐍 Python Programmer
+- 🐍 Python and Typescript Programmer
 - 💲  Finance and trading nerd
-- 🔥 Vue, Nuxt, Tailwind CSS
+- 🔥 Vue, React, Next, Nuxt, Astro, Tailwind CSS, SASS
 
 Check my npm package for turbo prompting: [proompt cat](https://github.com/angusgee/proompt-cat)
