@@ -1,8 +1,8 @@
 ### Hi I'm AngusGee
 
-- 🌍 Web Developer
-- 💲  Finance and trading nerd
-- 🔥 TypeScript, React, Next.js, Node.js, Tailwind CSS
-- 🤼 Agile Scrum Master and Product Owner
+- 🌍 Business Analyst
+- 🧑🏼‍💻 Software Developer
+- 🕵🏼‍♂️ Security Researcher
+- 💲 Finance and trading nerd
 
-Check my npm package for turbo prompting: [proompt cat](https://github.com/angusgee/proompt-cat)
+Check my npm package for turning your entire web dev project into one [LLM-friendly string](https://github.com/angusgee/proompt-cat)
