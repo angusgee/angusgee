@@ -1,4 +1,4 @@
-### Hi I'm AngusGee
+### Hi I'm Angus Girvan!
 
 - 🤖 Agentic AI Automation with n8n
 - 🌍 Full Stack Web Development with Nuxt/Nextjs
