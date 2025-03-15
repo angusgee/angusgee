@@ -1,8 +1,8 @@
 ### Hi I'm AngusGee
 
-- 🌍 Business Analyst
-- 🧑🏼‍💻 Software Developer
-- 🕵🏼‍♂️ Security Researcher
-- 💲 Finance and trading nerd
+- 🤖 Agentic AI Automation with n8n
+- 🌍 Web Development with Nuxt/Nextjs
+- 🧑🏼‍💻 Professional Scrum Master
+- 🦾 CompTia A+
 
-Check my npm package for turning your entire web dev project into one [LLM-friendly string](https://github.com/angusgee/proompt-cat)
+Turn your entire web dev project into one [LLM-friendly string](https://github.com/angusgee/proompt-cat)
