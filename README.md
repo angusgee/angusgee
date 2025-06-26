@@ -1,9 +1,9 @@
 ### Hi I'm Angus Girvan!
 
-- 🐍 Python Programming
-- 🤖 Agentic AI Automation
-- 🌍 Full Stack Web Development with Express, Fast API, Flask, Nuxt, Nextjs, React, Vue and Tailwind
+- 🤖 AI Automation Engineer
+- 🌍 Full Stack Web Developer
 - 🧑🏼‍💻 Professional Scrum Master and PS Product Owner
 - 🦾 CompTia A+
+- 🥷🏻 Google Cyber Security Certified
 
 Turn your entire web dev project into one LLM-friendly string with [proompt-cat](https://github.com/angusgee/proompt-cat)
