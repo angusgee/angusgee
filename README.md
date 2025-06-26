@@ -2,6 +2,6 @@
 
 - 🤖 AI Automation Engineer
 - 🌍 Full Stack Web Developer
-- 🧑🏼‍💻 Professional Scrum Master and PS Product Owner
+- 🧑🏼‍💻 Professional Scrum Master and Product Owner
 - 🦾 CompTia A+
-- 🥷🏻 Google Cyber Security Certified
+- 🥷🏻 Google Cyber Security Cert
