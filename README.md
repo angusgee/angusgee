@@ -1,7 +1,7 @@
-### Hi I'm Angus Girvan!
+### Hi I'm Angus G aka shark3y!
 
-- 🤖 AI Automation Engineer
-- 🌍 Full Stack Web Developer
-- 🧑🏼‍💻 Professional Scrum Master and Product Owner
-- 🖥️ CompTia A+
-- 🥷🏻 Google Cyber Security Cert
+- 🤖 AI Powered Security Research
+- 🌍 WordPress AppSec & Pentesting
+- 🪲 Bug Bounty
+
+
