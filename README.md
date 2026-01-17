@@ -1,4 +1,4 @@
-### Hi I'm Angus G aka shark3y!
+### Hi I'm Angus Girvan aka shark3y!
 
 - 🤖 AI Powered Security Research
 - 🌍 WordPress AppSec & Pentesting
