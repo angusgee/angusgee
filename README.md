@@ -4,5 +4,5 @@
 - 🌍 WordPress AppSec & Pentesting
 - 🪲 Bug Bounty
 
-WordFence profile: https://www.wordfence.com/threat-intel/vulnerabilities/researchers/shark3y
+WordFence research: (shark3y)[https://www.wordfence.com/threat-intel/vulnerabilities/researchers/shark3y]
 
