@@ -6,7 +6,7 @@ Security researcher and bug bounty hunter focused on web application vulnerabili
 - 🌍 WordPress application security & pentesting
 - 🪲 Bug bounty hunting
 
-Blog: [shark3y.io](https://shark3y.io/)
+Check out my blog here: [shark3y.io](https://shark3y.io/)
 
 WordFence researcher profile: [shark3y](https://www.wordfence.com/threat-intel/vulnerabilities/researchers/shark3y)
 
