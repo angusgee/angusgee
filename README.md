@@ -1,6 +1,6 @@
 ### Hi I'm Angus Girvan aka shark3y!
 
-Web developer and ethical hacker. 
+Business analyst, web developer, ethical hacker
 
 Security blog: [shark3y.io](https://shark3y.io/)
 
