@@ -1,4 +1,4 @@
-Angus Girvan
+## Angus Girvan
 
 I build fast, secure websites and practical AI integrations for small businesses.
 
@@ -6,19 +6,19 @@ I build fast, secure websites and practical AI integrations for small businesses
 🔐 Security researcher with 39 CVEs to my name, all in WordPress plugins
 📍 Malta
 
-How I Work
+## How I Work
 
-- Hand-coded static sites, with no page builders, no bloated themes and nothing to hack
+- Beautiful static sites, with no page builders, no bloated themes and nothing to hack
 - Hosted on Cloudflare's global edge, with SSL, a web application firewall and DDoS protection as standard
 - Performance first: every site is built to load in under a second on a mobile connection
 - AI where it genuinely helps: chat assistants, content pipelines and workflow automation
 
-Selected Projects
+## Selected Projects
 
 - angusgee.dev: my studio site
 - youtube-tldr: AI-generated summaries for YouTube videos, built on Node.js and the Claude API
 - shark3y.io: my security research and bug bounty blog
 
-Get in Touch
+## Get in Touch
 
-The quickest way to reach me is through angusgee.dev
+Reach out to me through angusgee.dev
