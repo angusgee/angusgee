@@ -2,9 +2,9 @@
 
 I build fast, secure websites and practical AI integrations for small businesses.
 
-🌐 angusgee.dev: services, pricing and live work
- 🔐 Security researcher with 39 CVEs to my name, all in WordPress plugins
- 📍 Malta
+🌐 **[angusgee.dev](https://angusgee.dev)**: services, pricing and live work<br>
+🔐 Security researcher with 39 CVEs to my name, all in WordPress plugins<br>
+📍 Malta
 
 ### How I Work
 
